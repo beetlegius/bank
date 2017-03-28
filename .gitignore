@@ -1,0 +1,9 @@
+client/node_modules
+client/bower_components
+client/src/**/*.js
+!client/src/systemjs.config.extras.js
+!client/src/systemjs.config.js
+!client/src/systemjs-angular-loader.js
+*.js.map
+
+node_modules

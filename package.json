@@ -1,0 +1,26 @@
+{
+  "name": "bank",
+  "version": "0.0.1",
+  "description": "Bank app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beetlegius/lab-bank.git"
+  },
+  "author": "Beetlegius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beetlegius/lab-bank/issues"
+  },
+  "homepage": "https://github.com/beetlegius/lab-bank#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.2",
+    "morgan": "^1.8.1",
+    "path": "^0.12.7"
+  }
+}
